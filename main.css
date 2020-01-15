@@ -8,8 +8,10 @@ nav{
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    position: fixed;
+    position: absolute;
     top: 0px;
+    left: 80vw;
+    top: 3vh;
 }
 a{
     text-decoration: none;
